@@ -1,0 +1,6 @@
+open-jdk
+libcairo2-dev
+libnetcdf-dev
+libxml2
+libxt-dev
+libssl-dev
