@@ -1,4 +1,4 @@
-open-jdk
+default-jdk
 libcairo2-dev
 libnetcdf-dev
 libxml2
